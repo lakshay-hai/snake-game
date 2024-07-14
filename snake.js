@@ -141,6 +141,6 @@ window.addEventListener('keydown', e => {
             inputDir.y = 0;
             break;
         default:
-            break;    
+            break;
     }
 });
